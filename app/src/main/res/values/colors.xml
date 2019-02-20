@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffff8800</color>
+    <color name="colorPrimaryDark">#047c70</color>
+    <color name="colorAccent">#F9B508</color>
+    <color name="themeGreen">#7CF0BD</color>
+    <color name="green">#33cc00</color>
+    <color name="red">#ed2939</color>
+    <color name="btnExpense">#028090</color>
+    <color name="btnIncome">#02C39A</color>
+    <color name="btnDisabled">#808080</color>
+
+    <color name="minusBG">#8ACDEA</color>
+
+</resources>
